@@ -1,0 +1,17 @@
+3.1 System Features
+Admin: 
+Log into the admin system. YZ
+Can add new products. YZ
+Can edit product details (price, name, function, package) which product has some new protection or functionality. JJ
+Can delete existing products whose version has been eliminated. JJ
+View product sales report. HK
+Based on the sales of products, that will generate a report (PDF) to show about the total sales of products. HK
+
+
+User:
+Register and log into system HK
+Edit profile HK
+Do the payment YZ
+View product details YZ
+View receipt when already subscribe the products JJ
+Get the product key to do installation. JJ
