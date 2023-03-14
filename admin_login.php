@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Login Form</title>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/alphardex/aqua.css@master/dist/aqua.min.css'><link rel="stylesheet" 
-   href="./style.css">
+   href="./admin_login.css">
 
 </head>
 
