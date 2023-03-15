@@ -39,6 +39,7 @@ if (mysqli_num_rows($result) == 1) {
   <div class="main">    
     <input type="checkbox" id="chk" aria-hidden="true">
 
+    
       <div class="signup">
         <form method="post">
           <label for="chk" aria-hidden="true">Sign up</label>

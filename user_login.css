@@ -8,6 +8,7 @@ body{
 	font-family: 'Jost', sans-serif;
 	background: linear-gradient(to bottom, #0f0c29, #120977, #4b4b80);
 }
+
 .main{
 	width: 350px;
 	height: 500px;
@@ -20,11 +21,13 @@ body{
 #chk{
 	display: none;
 }
+
 .signup{
 	position: relative;
 	width:100%;
 	height: 100%;
 }
+
 label{
 	color: #fff;
 	font-size: 2.3em;
@@ -65,9 +68,11 @@ button{
 	transition: .2s ease-in;
 	cursor: pointer;
 }
+
 button:hover{
 	background: #4040aa;
 }
+
 .login{
 	height: 460px;
 	background: #eee;
@@ -111,9 +116,11 @@ body{
 #chk:checked ~ .login{
 	transform: translateY(-500px);
 }
+
 #chk:checked ~ .login label{
 	transform: scale(1);	
 }
+
 #chk:checked ~ .signup label{
 	transform: scale(.6);
 }
