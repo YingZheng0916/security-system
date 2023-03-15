@@ -44,7 +44,8 @@ CREATE TABLE `customers` (
   `Customer_ID` int(1) NOT NULL,
   `Customer_Name` varchar(50) NOT NULL,
   `Customer_number` int(12) NOT NULL,
-  `Customer_email` varchar(100) NOT NULL
+  `Customer_email` varchar(100) NOT NULL,
+  `Customer_password` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
